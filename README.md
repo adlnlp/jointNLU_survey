@@ -65,4 +65,19 @@ RNN, capsule, memory networks, bi-directinal
 Overview, code walkthrough, some tasks for them to do
 
 
+# Github links
 
+Slot-Gated Modeling for Joint Slot Filling and Intent Prediction (2018) by Goo et al.
+https://github.com/MiuLab/SlotGated-SLU
+
+A Self-Attentive Model with Gate Mechanism for Spoken Language Understanding (2018) by Li et al.
+https://github.com/NinedayWang/Self-Attentive-and-Gated-SLU
+
+A Bi-model based RNN Semantic Frame Parsing Model for Intent Detection and Slot Filling (2018) by Wang et al.
+https://github.com/ray075hl/Bi-Model-Intent-And-Slot
+
+A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding (2019) by Qin et al.
+https://github.com/LeePleased/StackPropagation-SLU
+
+BERT for Joint Intent Classification and Slot Filling (2019) by Chen et al.
+https://github.com/monologg/JointBERT
