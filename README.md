@@ -2,6 +2,10 @@
 
 Where is Natural Language Understanding in 2023?
 
+Presented at:
+<p><a href="https://www2023.thewebconf.org/" title="ACM's The Web Conference 2023, Austin TX">ACM's The Web Conference 2023, Austin TX</a></p>
+
+
 # The tutorial
 
 When a human speaks to a machine how does the latter elicit meaning from the communication? This is an important AI task as it enables the machine to construct a sensible answer or perform a useful action for the human. Meaning is represented at the sentence level, identification of which is known as intent detection, and at the word level, a labelling task called slot filling. This dual level joint task requires innovative thinking about natural language and deep learning network design and as a result many approaches have been tried. 
@@ -13,6 +17,8 @@ Watch our tutorial teaser video here:
 
 
 # The paper 
+
+In 2022 we published a survey paper in the journal ACM Computing Surveys upon which the tutorial is based. 
 
 The paper can be found here:
 <p><a href="https://doi.acm.org?doi=3547138" title="A Survey of Joint Intent Detection and Slot Filling Models in Natural Language Understanding">A Survey of Joint Intent Detection and Slot Filling Models in Natural Language Understanding</a></p>
