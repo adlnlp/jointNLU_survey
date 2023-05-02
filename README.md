@@ -15,6 +15,7 @@ In this tutorial we will discuss how the joint task is set up and introduce some
 Watch our tutorial teaser video here:
 <p><a href="https://www.youtube.com/watch?v=ovw7093ogeI" title="WWW (The Web Conference) '23 NLU Tutorial">WWW (The Web Conference) '23 NLU Tutorial</a></p>
 
+Please find the tutorial slides available in the file "NLU WWW 2023 Tutorial.pdf" in this repository.
 
 # The paper 
 
