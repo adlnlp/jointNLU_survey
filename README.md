@@ -3,7 +3,7 @@
 Where is Natural Language Understanding in 2023?
 
 Presented at:
-<p><a href="https://www2023.thewebconf.org/" title="ACM's The Web Conference 2023, Austin TX">ACM's The Web Conference 2023, Austin TX</a></p>
+<p><a href="https://www2023.thewebconf.org/" title="ACM's The Web Conference 2023, Austin TX">ACM's The Web Conference 2023 (WWW 2023'), Austin TX</a></p>
 
 
 # The tutorial
