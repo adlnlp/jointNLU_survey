@@ -26,7 +26,7 @@ The paper can be found here:
 
 # Citation
 
-<p><code>
+```
 @article{10.1145/3547138,
           author = {Weld, Henry and Huang, Xiaoqi and Long, Siqu and Poon, Josiah and Han, Soyeon Caren},
           title = {A Survey of Joint Intent Detection and Slot Filling Models in Natural Language Understanding},
@@ -40,13 +40,13 @@ The paper can be found here:
           url = {https://doi.org/10.1145/3547138},
           doi = {10.1145/3547138},
           abstract = {Intent classification, to identify the speaker’s intention, and slot filling, to label each token with a semantic type, are critical                         tasks in natural language understanding. Traditionally the two tasks have been addressed independently. More recently joint models that                       address the two tasks together have achieved state-of-the-art performance for each task and have shown there exists a strong                                 relationship between the two. In this survey, we bring the coverage of methods up to 2021 including the many applications of deep                             learning in the field. As well as a technological survey, we look at issues addressed in the joint task and the approaches designed to                       address these issues. We cover datasets, evaluation metrics, and experiment design and supply a summary of reported performance on the                       standard datasets.},
-          journal = {ACM Comput. Surv.},
+          journal = {ACM Computing Surveys},
           month = {dec},
           articleno = {156},
           numpages = {38},
           keywords = {slot labelling, natural language understanding, Intent detection}
 }
-</code></p>
+```
 
 <B>NLP basics</B> 
 Tokenisation, word embeddings, sentence embeddings, pre-trained models, BERT
